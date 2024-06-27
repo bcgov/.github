@@ -6,11 +6,11 @@ To keep access to the bcgov GitHub organization, all users must link their IDIRs
 
 Contractors without IDIRs must get one to before they can enable SSO. Learn how to order an IDIR. 
 
-[Learn more about the timelines and instructions](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#single-sign-on-is-coming-to-the-bc-governments-github-organizations?utm_source=main&utm_medium=github&utm_campaign=bcgov-readme).
+[Learn more about the timelines and instructions](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github?utm_source=main&utm_medium=github&utm_campaign=bcgov-readme#single-sign-on-is-coming-to-the-bc-governments-github-organizations).
 
 For more information, please see our transition guides:
-- [Transition guide for IDIRs](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/github-transition-guide/#idirs?utm_source=guide-idir&utm_medium=github&utm_campaign=bcgov-readme)
+- [Transition guide for IDIRs](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/github-transition-guide?utm_source=guide-idir&utm_medium=github&utm_campaign=bcgov-readme#idirs)
 
--  [Transition guide for GitHub](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#single-sign-on-is-coming-to-the-bc-governments-github-organizations?utm_source=main&utm_medium=github&utm_campaign=bcgov-banner)
+-  [Transition guide for GitHub](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github?utm_source=main&utm_medium=github&utm_campaign=bcgov-banner#single-sign-on-is-coming-to-the-bc-governments-github-organizations)
 
 For help with access, please [submit a support request](https://citz-do.atlassian.net/servicedesk/customer/portal/2). 
