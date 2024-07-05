@@ -8,6 +8,6 @@ Contractors without IDIRs must order one before SSO can be enabled.
 
 [Learn more about IDIRs and technical information.](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/github-transition-guide?utm_source=guide-idir&utm_medium=github&utm_campaign=bcgov-readme#idirs)
 
-[Learn more about the timelines and instructions.](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#the-changes)
+[Learn more about the timelines and instructions.](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/?utm_source=main&utm_medium=github&utm_campaign=bcgov-readme#the-changes)
 
 For help with access, please [submit a support request](https://citz-do.atlassian.net/servicedesk/customer/portal/2). 
