@@ -1,4 +1,4 @@
-### Welcome to the B.C. Government’s official GitHub Organization!
+### Welcome to the B.C. Government’s open GitHub Organization!
 
 <img align="right" width="250" height="250" src="images/Developer.png">
 
@@ -9,7 +9,7 @@ Within the Ministry of Citizens’ Services, the Developer Experience team’s p
 Although developers work deeper in the government ecosystems, their deliverables are crucial to building public trust. Whether top-down or collaborative, developers finalize a vision by building products that both government workers and public can interact with. The public can be impacted by products and services immediately, or through a few degrees of separation.
 
 ### Joining our community 
-<img align="right" width="250" height="250" src="images/Programmer.pngg">
+<img align="right" width="250" height="250" src="images/Programmer.png">
 
 1. [Authentiacate your IDIR](https://github.com/orgs/bcgov/sso)
 2. You'll get an email with an invitation to join the **bcgov** GitHub organization.
