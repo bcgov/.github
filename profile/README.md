@@ -12,7 +12,7 @@ Although developers work deeper in the government ecosystems, their deliverables
 <img align="right" width="250" height="250" src="images/Programmer.png">
 
 1. [Authentiacate your IDIR](https://github.com/orgs/bcgov/sso)
-2. You'll get an email with an invitation to join the **bcgov** GitHub organization.
+2. You'll get an email with an invitation to join the **bcgov** GitHub organization. The invitation will be sent to the email address associated with your GitHub account.
 3. Your teammates can add you to your team's repositories.
 
 You're done! We look forward to working with you. If you have any questions or concerns, please contact us at developer.experience@gov.bc.ca.
