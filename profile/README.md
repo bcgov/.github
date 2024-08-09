@@ -1,6 +1,6 @@
 ### Welcome to the B.C. Government’s open GitHub Organization!
 
-<img align="right" width="250" height="250" src="images/Programmer.png">
+<img align="left" width="250" height="250" src="images/Programmer.png">
 
 The B.C. Government commits to [open ways of working](https://digital.gov.bc.ca/policies-standards/dcop/open/) to transform into a Digital Government. We leverage GitHub to achieve our objective. Our open practices let us to share source code and non-sensitive data with our government developer community and partners.
 
@@ -11,10 +11,8 @@ Although developers work deeper in the government ecosystems, their deliverables
 ### Joining our community 
 <img align="right" width="250" height="250" src="images/Developer.png">
 
-1. [Authentiacate your IDIR](https://github.com/orgs/bcgov/sso)
-2. You'll get an email with an invitation to join the **bcgov** GitHub organization. The invitation will be sent to the email address associated with your GitHub account.
-3. Your teammates can add you to your team's repositories.
+We look forward to working with you! Our team manages the centralized resource for government developers called DevHub. It has [instructions for joining](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#directions-to-link-your-account-after-july-30) the 'bcgov' organization. 
 
-You're done! We look forward to working with you. If you have any questions or concerns, please contact us through our [Jira Service Manager](https://citz-do.atlassian.net/servicedesk/customer/portal/2)).
+If you have any questions or concerns, please contact us through our [Jira Service Manager](https://citz-do.atlassian.net/servicedesk/customer/portal/2).
 
 
