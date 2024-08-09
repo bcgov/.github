@@ -1,13 +1,18 @@
-# Single sign-on is coming to the B.C. government’s GitHub organizations 
+### Welcome to the B.C. Government’s open GitHub Organization!
 
-:sparkles: The Developer Experience team has enabled Single Sign-On (SSO) for GitHub. We’re starting with the bcgov GitHub organization. After we finish transitioning bcgov, we’ll enable other OCIO-managed GitHub organizations.
+<img align="left" width="250" height="250" src="images/Programmer.png">
 
-By **July 30, 2024**, all bcgov GitHub organization users must link their IDIRs with their GitHub IDs. If this isn’t done by the deadline, access to the GitHub organization will be automatically removed. 
+The B.C. Government commits to [open ways of working](https://digital.gov.bc.ca/policies-standards/dcop/open/) to transform into a Digital Government. We leverage GitHub to achieve our objective. Our open practices let us to share source code and non-sensitive data with our government developer community and partners.
 
-Contractors without IDIRs must order one before SSO can be enabled.
+Within the Ministry of Citizens’ Services, the Developer Experience team’s purpose is offering the best support possible to developer teams. We centralize, streamline and innovate developer resources so we can contribute towards quick project starts, and facilitate continuous improvement. 
 
-[Learn more about IDIRs and technical information.](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/github-transition-guide?utm_source=guide-idir&utm_medium=github&utm_campaign=bcgov-readme#idirs)
+Although developers work deeper in the government ecosystems, their deliverables are crucial to building public trust. Whether top-down or collaborative, developers finalize a vision by building products that both government workers and public can interact with. The public can be impacted by products and services immediately, or through a few degrees of separation.
 
-[Learn more about the timelines and instructions.](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/?utm_source=main&utm_medium=github&utm_campaign=bcgov-readme#the-changes)
+### Joining our community 
+<img align="right" width="250" height="250" src="images/Developer.png">
 
-For help with access, please [submit a support request](https://citz-do.atlassian.net/servicedesk/customer/portal/2). 
+We look forward to working with you! Our team manages the centralized resource for government developers called DevHub. It has [instructions for joining](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#directions-to-link-your-account-after-july-30) the 'bcgov' organization. 
+
+If you have any questions or concerns, please contact us through our [Jira Service Manager](https://citz-do.atlassian.net/servicedesk/customer/portal/2).
+
+
