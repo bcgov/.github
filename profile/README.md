@@ -6,7 +6,7 @@ The B.C. Government commits to [open ways of working](https://digital.gov.bc.ca/
 
 Within the Ministry of Citizens’ Services, the Developer Experience team’s purpose is offering the best support possible to developer teams. We centralize, streamline and innovate developer resources so we can contribute towards quick project starts, and facilitate continuous improvement. 
 
-Although developers work deeper in the government ecosystems, their deliverables are crucial to building public trust. Whether top-down or collaborative, developers finalize a vision by building products that both government workers and public can interact with. The public can be impacted by products and services immediately, or through a few degrees of separation.
+Although developers work deeper in the government ecosystems, their deliverables are crucial to building public trust. Whether top-down or collaborative, developers finalize a vision by building products that both government workers and public can interact with. 
 
 ### Joining our community 
 <img align="right" width="250" height="auto" src="../images/Developer.png">
