@@ -11,7 +11,7 @@ Although developers work deeper in the government ecosystems, their deliverables
 ### Joining our community 
 <img align="right" width="250" height="auto" src="../images/Developer.png">
 
-We look forward to working with you! Our team manages the centralized resource for government developers called DevHub. It has [instructions for joining](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#directions-to-link-your-account-after-july-30) the 'bcgov' organization. 
+We look forward to working with you! Our team manages the centralized resource for government developers called DevHub. It has [instructions for joining](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#directions-to-link-your-account-after-july-30) the `bcgov` organization. 
 
 If you have any questions or concerns, please [submit a support request](https://citz-do.atlassian.net/servicedesk/customer/portal/2).
 
